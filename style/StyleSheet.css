@@ -330,7 +330,6 @@ body {
     }
 
 .about .about-content .skills {
-        background-color: blue;
         -ms-flex: 0 0 40%;
         flex: 0 0 40%;
         max-width: 40%;
